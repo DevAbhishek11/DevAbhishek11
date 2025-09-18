@@ -104,6 +104,5 @@ Figma, Upwork, Freelancer, AWS, Shopify, WordPress.
 - Fluent in English & Hindi; open to global projects. 🌏  
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevAbhishek11&layout=compact&theme=dracula&hide_border=true" alt="Top Languages">
   <p>Let's build something epic! 💡 [Sign my guestbook](https://github.com/DevAbhishek11/DevAbhishek11/issues/new)</p>
 </div>
