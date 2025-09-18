@@ -47,7 +47,7 @@ Full Stack Developer specializing in React.js, Node.js, Next.js, React Native, E
 <summary>🚀 Projects</summary>
 
 - **[Portfolio Website](https://devabhi.site)**: Next.js + Three.js with 3D animations and smooth transitions.  
-- **[Event Management Portal](portal-link-here.com)**: React.js + Laravel; 6-panel system for events, payments, dashboards. ([Server](server-link-here.com))  
+- **[Event Management Portal](https://ibri.in/jaihindmoment.com)**: React.js + Laravel; 6-panel system for events, payments, dashboards. ([Server](server-link-here.com))  
 - **[NextGenTrip](https://nextgentrip.com)**: Travel booking like MakeMyTrip; Next.js + Laravel + TBO API.  
 - **[RealStateMe](https://realstateme.vercel.app)**: Property platform with search/filters; Next.js UI.  
 - **[Robin Quiz](https://robinq.online)**: React Native quiz app; Laravel backend, leaderboards.  
