@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" alt="Coding Banner" width="20%" height="auto">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" alt="Coding Banner" width="50%" height="auto">
   <h1>👋 Hi, I'm Abhishek Prajapati</h1>
   <p><strong>Full Stack Web & App Developer</strong> 🚀</p>
   <p>Crafting scalable apps with React.js, Node.js, Next.js, React Native & AI. Passionate about UX and efficiency.</p>
