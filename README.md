@@ -70,7 +70,7 @@ Full Stack Developer specializing in React.js, Node.js, Next.js, React Native, E
 | **Cloud & DevOps** | AWS EC2, AWS S3, Git, GitLab, CI/CD |
 | **Other** | Socket.io, Twilio, AI Integration |
 
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js">
