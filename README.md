@@ -4,20 +4,20 @@
   <p><strong>Full Stack Web & App Developer</strong> 🚀</p>
   <p>Crafting scalable apps with React.js, Node.js, Next.js, React Native & AI. Passionate about UX and efficiency.</p>
   
-  <img src="https://img.shields.io/github/followers/DevAbhishel11?style=social" alt="GitHub Followers">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=DevAbhishel11.DevAbhishel11&left_color=teal&right_color=orange&left_text=Profile%20Views" alt="Visitor Count">
+  <img src="https://img.shields.io/github/followers/DevAbhishek11?style=social" alt="GitHub Followers">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=DevAbhishek11.DevAbhishek11&left_color=teal&right_color=orange&left_text=Profile%20Views" alt="Visitor Count">
   
   <br/>
   
   <a href="https://www.linkedin.com/in/abhishek-prajapati/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://twitter.com/DevAbhishel11"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
+  <a href="https://twitter.com/DevAbhishek11"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
   <a href="https://devabhi.site"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
   
   <br/>
   
-  <img src="https://github-readme-stats.vercel.app/api?username=DevAbhishel11&show_icons=true&theme=dracula&hide_border=true" alt="GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DevAbhishel11&theme=dracula&hide_border=true" alt="GitHub Streak">
-  <img src="https://github-profile-trophy.vercel.app/?username=DevAbhishel11&theme=dracula&no-frame=true" alt="GitHub Trophies">
+  <img src="https://github-readme-stats.vercel.app/api?username=DevAbhishek11&show_icons=true&theme=dracula&hide_border=true" alt="GitHub Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DevAbhishek11&theme=dracula&hide_border=true" alt="GitHub Streak">
+  <img src="https://github-profile-trophy.vercel.app/?username=DevAbhishek11&theme=dracula&no-frame=true" alt="GitHub Trophies">
 </div>
 
 ---
@@ -27,7 +27,7 @@
 - **Phone**: +91 705-629-8363  
 - **Location**: Amar Vihar, Shahabad Markanda, 136135  
 - **Website**: [devabhi.site](https://devabhi.site)  
-- **GitHub**: [DevAbhishel11](https://github.com/DevAbhishel11)  
+- **GitHub**: [DevAbhishek11](https://github.com/DevAbhishek11)  
 - **Languages**: English, Hindi  
 
 ---
@@ -108,6 +108,6 @@ Figma, Upwork, Freelancer, AWS, Shopify, WordPress.
 - Fluent in English & Hindi; open to global projects. 🌏  
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevAbhishel11&layout=compact&theme=dracula&hide_border=true" alt="Top Languages">
-  <p>Let's build something epic! 💡 [Sign my guestbook](https://github.com/DevAbhishel11/DevAbhishel11/issues/new)</p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevAbhishek11&layout=compact&theme=dracula&hide_border=true" alt="Top Languages">
+  <p>Let's build something epic! 💡 [Sign my guestbook](https://github.com/DevAbhishek11/DevAbhishek11/issues/new)</p>
 </div>
